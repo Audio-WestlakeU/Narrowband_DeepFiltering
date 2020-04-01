@@ -1,5 +1,11 @@
 This repository provides code for the TASLP submission:
-Xiaofei Li and Radu Horaud. Narrow-band deep filtering for multichannel speech enhancement. https://hal.inria.fr/hal-02378413/file/multichannel_lstm.pdf
+
+- Xiaofei Li and Radu Horaud. Narrow-band deep filtering for multichannel speech enhancement. https://hal.inria.fr/hal-02378413/file/multichannel_lstm.pdf
+
+and for
+
+- Xiaofei Li and Radu Horaud. Multichannel Speech Enhancement Based on Time-frequency Masking Using Subband Long Short-Term Memory. WASPAA 2019.
+
 For more details, please refer to: https://team.inria.fr/perception/research/mse-lstm/
 
 Preparation:
